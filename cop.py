@@ -10,7 +10,7 @@ import random as rand
 
 # Getting the bot's token from the env variable
 
-TOKEN = "OTI3MDQ4NDY0NzI1MDgyMTcy.Gxr1NE.40XHMc7Z8n8OqdMLhNXfun8GA9Ezn2vS83qbpU"
+TOKEN = "PUT_YOUR_TOKEN_HERE"
 
 # Setup
 client = commands.Bot(command_prefix='.', intents=discord.Intents.all())
